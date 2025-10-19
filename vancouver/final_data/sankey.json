@@ -1,0 +1,791 @@
+{
+  "total": 860.6340000000005,
+  "spending": 3269.551,
+  "revenue": 4130.185,
+  "spending_data": {
+    "name": "Spending",
+    "children": [
+      {
+        "name": "Provincial and Regional Taxing Authorities",
+        "children": [
+          {
+            "name": "Province of BC - School Taxes",
+            "amount": 737.939
+          },
+          {
+            "name": "South Coast BC Transportation Authority",
+            "amount": 174.056
+          },
+          {
+            "name": "BC Assessment Authority",
+            "amount": 21.576
+          },
+          {
+            "name": "Metro Vancouver",
+            "amount": 32.217
+          },
+          {
+            "name": "Municipal Finance Authority",
+            "amount": 0.119
+          }
+        ]
+      },
+      {
+        "name": "General Government",
+        "children": [
+          {
+            "name": "General Government Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 138.594
+              },
+              {
+                "name": "Contract services",
+                "amount": 27.427
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 95.32
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 6.898
+              },
+              {
+                "name": "Amortization",
+                "amount": 30.711
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Protective Services",
+        "children": [
+          {
+            "name": "Police Protection Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 381.131
+              },
+              {
+                "name": "Contract services",
+                "amount": 43.481
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 37.126
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 0.453
+              },
+              {
+                "name": "Amortization",
+                "amount": 12.576
+              }
+            ]
+          },
+          {
+            "name": "Fire Protection Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 171.203
+              },
+              {
+                "name": "Contract services",
+                "amount": 7.532
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 13.828
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 2.979
+              },
+              {
+                "name": "Amortization",
+                "amount": 6.032
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Engineering & Public Works",
+        "children": [
+          {
+            "name": "Engineering Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 149.72
+              },
+              {
+                "name": "Contract services",
+                "amount": 17.092
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 9.485
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 3.129
+              },
+              {
+                "name": "Amortization",
+                "amount": 82.977
+              }
+            ]
+          },
+          {
+            "name": "Utilities Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 77.759
+              },
+              {
+                "name": "Contract services",
+                "amount": 24.732
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 258.676
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 16.598
+              },
+              {
+                "name": "Amortization",
+                "amount": 38.681
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Community Planning & Development",
+        "children": [
+          {
+            "name": "Planning and Development Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 80.241
+              },
+              {
+                "name": "Contract services",
+                "amount": 8.014
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 4.4
+              },
+              {
+                "name": "Amortization",
+                "amount": 0.02
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Parks, Recreation & Cultural Services",
+        "children": [
+          {
+            "name": "Parks and Recreation Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 156.87
+              },
+              {
+                "name": "Contract services",
+                "amount": 17.363
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 81.811
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 5.909
+              },
+              {
+                "name": "Amortization",
+                "amount": 31.013
+              }
+            ]
+          },
+          {
+            "name": "Arts, Culture, & Community Services Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 65.249
+              },
+              {
+                "name": "Contract services",
+                "amount": 83.822
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 25.774
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 0.171
+              },
+              {
+                "name": "Amortization",
+                "amount": 18.091
+              }
+            ]
+          },
+          {
+            "name": "Library Expense",
+            "children": [
+              {
+                "name": "Wages, salaries and benefits",
+                "amount": 51.76
+              },
+              {
+                "name": "Contract services",
+                "amount": 2.579
+              },
+              {
+                "name": "Supplies, material and equipment",
+                "amount": 8.884
+              },
+              {
+                "name": "Debt Charges",
+                "amount": 0.286
+              },
+              {
+                "name": "Amortization",
+                "amount": 7.247
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "revenue_data": {
+    "name": "Revenue",
+    "children": [
+      {
+        "name": "Property taxes, penalties and interest",
+        "children": [
+          {
+            "name": "Property tax and business taxes",
+            "amount": 2203.003
+          },
+          {
+            "name": "Payment in lieu of taxes",
+            "amount": 34.291
+          },
+          {
+            "name": "Local improvement levies",
+            "amount": 0.319
+          }
+        ]
+      },
+      {
+        "name": "Utility fees",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 0.05
+          },
+          {
+            "name": "Utilities",
+            "amount": 425.83
+          },
+          {
+            "name": "Parks & Recreation",
+            "amount": 0.09
+          },
+          {
+            "name": "Arts, Culture & Community Services",
+            "amount": 0.026
+          }
+        ]
+      },
+      {
+        "name": "Program Fees",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 0.643
+          },
+          {
+            "name": "Police Protection",
+            "amount": 1.886
+          },
+          {
+            "name": "Fire Protection",
+            "amount": 1.772
+          },
+          {
+            "name": "Engineering",
+            "amount": 0.112
+          },
+          {
+            "name": "Utilities",
+            "amount": 0.238
+          },
+          {
+            "name": "Parks & Recreation",
+            "amount": 124.88
+          },
+          {
+            "name": "Arts, Culture & Community Services",
+            "amount": 24.813
+          },
+          {
+            "name": "Library",
+            "amount": 0.68
+          }
+        ]
+      },
+      {
+        "name": "License and development fees",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 125.658
+          },
+          {
+            "name": "Engineering",
+            "amount": 4.356
+          },
+          {
+            "name": "Utilities",
+            "amount": 1.867
+          }
+        ]
+      },
+      {
+        "name": "Parking",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 61.678
+          },
+          {
+            "name": "Police Protection",
+            "amount": 0.002
+          },
+          {
+            "name": "Engineering",
+            "amount": 26.898
+          },
+          {
+            "name": "Parks & Recreation",
+            "amount": 16.78
+          },
+          {
+            "name": "Arts, Culture & Community Services",
+            "amount": 1.227
+          }
+        ]
+      },
+      {
+        "name": "Government Transfers",
+        "children": [
+          {
+            "name": "Provincial Government Transfers",
+            "children": [
+              {
+                "name": "BC Housing non-market housing operating subsidies",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 11.748
+                  }
+                ]
+              },
+              {
+                "name": "Climate Action Program",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 3.949
+                  },
+                  {
+                    "name": "Operating",
+                    "amount": 0.262
+                  }
+                ]
+              },
+              {
+                "name": "Community Service & Safety",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 7.317
+                  },
+                  {
+                    "name": "Capital",
+                    "amount": 0.074
+                  }
+                ]
+              },
+              {
+                "name": "COVID Safe Restart Grant",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 0.295
+                  }
+                ]
+              },
+              {
+                "name": "Federal Gas Tax Fund",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 2.205
+                  }
+                ]
+              },
+              {
+                "name": "Housing & Homeless",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 0.952
+                  }
+                ]
+              },
+              {
+                "name": "Infrastructure",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 0.708
+                  },
+                  {
+                    "name": "Operating",
+                    "amount": 0.075
+                  }
+                ]
+              },
+              {
+                "name": "Library",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 1.359
+                  }
+                ]
+              },
+              {
+                "name": "New Licensed Childcare Space",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 15.75
+                  }
+                ]
+              },
+              {
+                "name": "Other",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 0.101
+                  }
+                ]
+              },
+              {
+                "name": "Revenue Sharing",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 19.889
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Federal Government Transfers",
+            "children": [
+              {
+                "name": "Canada Mortgage Housing Corporation - Rapid Housing Initiative",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 15.289
+                  }
+                ]
+              },
+              {
+                "name": "Canada Mortgage Housing Corporation - Seed Fund",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 0.013
+                  }
+                ]
+              },
+              {
+                "name": "Community Service & Safety",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 4.367
+                  },
+                  {
+                    "name": "Capital",
+                    "amount": 3.618
+                  }
+                ]
+              },
+              {
+                "name": "Housing & Homeless",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 7.707
+                  },
+                  {
+                    "name": "Operating",
+                    "amount": 1.612
+                  }
+                ]
+              },
+              {
+                "name": "Infrastructure",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 13.702
+                  }
+                ]
+              },
+              {
+                "name": "Other",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 0.098
+                  }
+                ]
+              },
+              {
+                "name": "Zero Emission Vehicle Program",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 0.514
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "South Coast British Columbia Transportation Authority",
+            "children": [
+              {
+                "name": "Major Road Network and Bike",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 9.929
+                  }
+                ]
+              },
+              {
+                "name": "Major Road Rehabilitation",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 11.207
+                  }
+                ]
+              },
+              {
+                "name": "Operations and maintenance",
+                "children": [
+                  {
+                    "name": "Operating",
+                    "amount": 8.406
+                  }
+                ]
+              },
+              {
+                "name": "Transportation System Improvement",
+                "children": [
+                  {
+                    "name": "Capital",
+                    "amount": 2.716
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cost recoveries and donations",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 32.245
+          },
+          {
+            "name": "Police Protection",
+            "amount": 32.356
+          },
+          {
+            "name": "Fire Protection",
+            "amount": 12.437
+          },
+          {
+            "name": "Engineering",
+            "amount": 13.328
+          },
+          {
+            "name": "Utilities",
+            "amount": 38.903
+          },
+          {
+            "name": "Planning & Development",
+            "amount": 3.879
+          },
+          {
+            "name": "Parks & Recreation",
+            "amount": 5.725
+          },
+          {
+            "name": "Arts, Culture & Community Services",
+            "amount": 4.671
+          },
+          {
+            "name": "Library",
+            "amount": 0.951
+          }
+        ]
+      },
+      {
+        "name": "Investment Income",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 172.468
+          }
+        ]
+      },
+      {
+        "name": "Rental, lease and other",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 47.726
+          },
+          {
+            "name": "Police Protection",
+            "amount": 0.015
+          },
+          {
+            "name": "Fire Protection",
+            "amount": 0.124
+          },
+          {
+            "name": "Engineering",
+            "amount": 16.941
+          },
+          {
+            "name": "Utilities",
+            "amount": 3.278
+          },
+          {
+            "name": "Planning & Development",
+            "amount": 0.001
+          },
+          {
+            "name": "Parks & Recreation",
+            "amount": 10.499
+          },
+          {
+            "name": "Arts, Culture & Community Services",
+            "amount": 15.337
+          },
+          {
+            "name": "Library",
+            "amount": 1.217
+          }
+        ]
+      },
+      {
+        "name": "Bylaw fines",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 23.437
+          }
+        ]
+      },
+      {
+        "name": "Developer Contributions",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 184.527
+          },
+          {
+            "name": "Fire Protection",
+            "amount": 0.019
+          },
+          {
+            "name": "Engineering",
+            "amount": 122.807
+          },
+          {
+            "name": "Utilities",
+            "amount": 51.281
+          },
+          {
+            "name": "Planning & Development",
+            "amount": 0.75
+          },
+          {
+            "name": "Parks & Recreation",
+            "amount": 35.834
+          },
+          {
+            "name": "Arts, Culture & Community Services",
+            "amount": 85.054
+          }
+        ]
+      },
+      {
+        "name": "Gain on sale of tangible capital assets and real property",
+        "children": [
+          {
+            "name": "General Government",
+            "amount": 5.476
+          },
+          {
+            "name": "Fire Protection",
+            "amount": 7.753
+          },
+          {
+            "name": "Planning & Development",
+            "amount": 0.185
+          }
+        ]
+      }
+    ]
+  }
+}
