@@ -1,4 +1,4 @@
-City of Vancouver has ~9,500 
+City of Vancouver has ~9,500 employees.
 
 The financial statement on page 21 states that it reports on the following consolidated entities:
 
